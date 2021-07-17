@@ -1,0 +1,13 @@
+a:link, a:visited {
+    color: blue;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:link:active, a:visited:active {
+    color: (internal value);
+}
+
+a:hover {
+    color: darkblue;
+}
